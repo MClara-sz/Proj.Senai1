@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "549135204190",
+    "project_id": "autenticador1-senai-25",
+    "storage_bucket": "autenticador1-senai-25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549135204190:android:3da01f026b4b2508fe59cf",
+        "android_client_info": {
+          "package_name": "com.example.projsenai1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzII6WSzYDv8DGq2S6uLMJVOmz7a-IHCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
